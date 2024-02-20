@@ -1,4 +1,4 @@
-# Nashville Housing Data Cleaning README
+# Nashville Housing Data Cleaning
 
 ## Project Overview
 
